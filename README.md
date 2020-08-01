@@ -1,5 +1,6 @@
 <!-- List Of Websites-->
 [archcraft]: https://archcraft-os.github.io
+[archcrafts]: https://github.com/archcraft-os
 [twitter]: https://www.twitter.com/adi1090x
 [reddit]: https://www.reddit.com/user/adi1090x
 [github]: https://www.github.com/adi1090x
@@ -16,10 +17,10 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adi1090x&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
-### Hi there, I'm Aditya Shakya - aka *adi1090x* 👋
+### Hi there, I'm Aditya Shakya 👋
 
 I'm a Student, Learner & Linux Enthusiast!
-- 🔭 I’m currently working on [Archcraft][archcraft].
+- 🔭 I’m currently working on [Archcraft][archcrafts].
 - 🌱 I’m currently learning `bash` and `python`.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
