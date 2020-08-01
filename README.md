@@ -17,7 +17,7 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adi1090x&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
-### 👋 Hi there, I'm Aditya Shakya.
+### Hi there, I'm Aditya Shakya 👋
 
 I'm a Student, Learner & Linux Enthusiast!
 - 🔭 I’m currently working on [Archcraft][archcrafts]
@@ -26,7 +26,7 @@ I'm a Student, Learner & Linux Enthusiast!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love 📸 | 🎨 | 🐶 | 👨‍💻
 
-### 💬 Connect with me:
+### Connect with me:
 
 [<img align="left" alt="adi1090x | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="adi1090x | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
@@ -36,7 +36,7 @@ I'm a Student, Learner & Linux Enthusiast!
 
 <br />
 
-### 🧰 Languages and Tools:
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.google.com/search?&q=HTML5)
@@ -50,6 +50,7 @@ I'm a Student, Learner & Linux Enthusiast!
 [<img align="left" alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />](https://www.google.com/search?&q=Windows)
 
 <br />
+<br />
 
 ---
 ### 📖 Latest in Archcraft:
@@ -62,7 +63,7 @@ I'm a Student, Learner & Linux Enthusiast!
 
 ---
 
-### 🤗 Like my work, Support me:
+### Like my work, Support me:
 
 [<img align="left" alt="adi1090x | Twitter" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" />][bmac]
 [<img align="left" alt="adi1090x | Reddit" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/2.png" />][ko-fi]
