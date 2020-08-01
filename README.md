@@ -1,5 +1,5 @@
 <!-- List Of Websites-->
-[archcraft]: https://www.archcraft-os.github.io
+[archcraft]: https://archcraft-os.github.io
 [twitter]: https://www.twitter.com/adi1090x
 [reddit]: https://www.reddit.com/user/adi1090x
 [github]: https://www.github.com/adi1090x
