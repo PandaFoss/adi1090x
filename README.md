@@ -20,11 +20,11 @@
 ### Hi there, I'm Aditya Shakya 👋
 
 I'm a Student, Learner & Linux Enthusiast!
-- 🔭 I’m currently working on [Archcraft][archcrafts].
-- 🌱 I’m currently learning `bash` and `python`.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love Photography, DIY stuff & coding.
+- 🔭 I’m currently working on [Archcraft][archcrafts]
+- 🌱 I’m currently learning `bash` and `python`
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love 📸 | 🎨 | 🐶 | 👨‍💻
 
 ### Connect with me:
 
@@ -50,6 +50,17 @@ I'm a Student, Learner & Linux Enthusiast!
 [<img align="left" alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />](https://www.google.com/search?&q=Windows)
 
 <br />
+
+---
+### Latest in Archcraft:
+
+- [Things To Do After Installing Archcraft OS](https://archcraft-os.github.io/blog/post_install.html)
+- [Build Archcraft ISO With Its Source](https://archcraft-os.github.io/blog/build.html)
+- [Install Archcraft On BIOS System (With Encryption)](https://archcraft-os.github.io/blog/bios.html)
+- [Install Archcraft On UEFI System (With Encryption)](https://archcraft-os.github.io/blog/uefi.html)
+- [Create A Bootable USB With Archcraft](https://archcraft-os.github.io/blog/usb.html)
+
+---
 
 ### Like my work, Support me:
 
